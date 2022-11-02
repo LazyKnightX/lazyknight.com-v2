@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: Friends
 permalink: /friends/
 ---

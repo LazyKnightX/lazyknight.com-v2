@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: Links
 key: page-links
 permalink: /links/

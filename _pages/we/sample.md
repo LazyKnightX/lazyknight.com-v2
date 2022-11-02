@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: WE演示
 permalink: /we/sample/
 ---
