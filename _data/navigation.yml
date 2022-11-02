@@ -1,6 +1,18 @@
 header:
   - titles:
       # @start locale config
+      en      : &EN       Links
+      # @end locale config
+    url: /links
+
+  - titles:
+      # @start locale config
+      en      : &EN       Friends
+      # @end locale config
+    url: /friends
+
+  - titles:
+      # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
@@ -23,7 +35,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /archive.html
+    url: /archive
 
   - titles:
       # @start locale config
@@ -49,4 +61,4 @@ header:
       fr-LU   : *FR
       tr      : &TR       Hakkında
       # @end locale config
-    url: /about.html
+    url: /about

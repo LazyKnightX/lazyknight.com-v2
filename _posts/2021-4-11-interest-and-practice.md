@@ -1,7 +1,7 @@
 ---
 title: 兴趣与练习
 img: game-1.jpg
-tags: [博客]
+tags: [blog]
 ---
 
 如果没有兴趣，自然也别谈什么练习。

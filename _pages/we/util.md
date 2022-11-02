@@ -1,5 +1,5 @@
 ---
-layout: home-page
+layout: article
 title: WE测试
 permalink: /we/util/
 ---
