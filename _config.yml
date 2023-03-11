@@ -38,7 +38,7 @@ author:
   name      : LazyKnight
   url       : https://lazyknight.com
   avatar    : # path or url of avatar image (square)
-  bio       : Why we programming?
+  bio       : Explore the life.
   email     : i@lazyknight.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: lazyknightx/lazyknight.com
+repository: lazyknightx/lazyknight.com-v2
 repository_tree: main
 
 
